@@ -98,7 +98,7 @@ const projects = [
     description:
       "This web application, developed using React, Vite, Tailwind CSS, and Framer Motion, serves as a showcase of my expertise. While drawing inspiration from the JavaScript Mastery project tutorial, I've customized the project to my own ideas.",
     image: website,
-    source_code_link: "",
+    source_code_link: "https://github.com/dariusbarbus/student-website",
   },
   {
     name: "Task Tally",
