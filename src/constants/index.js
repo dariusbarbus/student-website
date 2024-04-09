@@ -101,9 +101,9 @@ const projects = [
     source_code_link: "https://github.com/dariusbarbus/student-website",
   },
   {
-    name: "Task Tally",
+    name: "Home Pager",
     description:
-      "User-friendly interface for easy and intuitive task tracking, allowing freelancers to efficiently log and monitor their work. Currently a work in progress. No Github Link.",
+      "Home Pager is a minimalist html home page template where users can add their own links to have a personalized homepage.",
     image: task,
     source_code_link: "",
   },
