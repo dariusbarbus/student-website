@@ -105,7 +105,7 @@ const projects = [
     description:
       "Home Pager is a minimalist html home page template where users can add their own links to have a personalized homepage.",
     image: task,
-    source_code_link: "",
+    source_code_link: "https://github.com/dariusbarbus/Home-Pager",
   },
     {
     name: "Website Deployment - VProfile",
